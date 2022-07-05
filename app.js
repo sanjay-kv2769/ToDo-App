@@ -14,7 +14,7 @@ function validation(callback)
                  return false;
     }
     
-    else if(uname.value.trim()=="admin" && pass.value.trim()=="12345"){
+    else if(uname.value.trim()=="admin" && pass.value.trim()=="1234"){
         uname.style.border="2px solid blue";
         pass.style.border="2px solid blue";
         alert("Log In success!");
