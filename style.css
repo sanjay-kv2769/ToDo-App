@@ -1,0 +1,259 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+/* body{
+    font-family: montserrat;
+  }
+
+nav{
+    background: #0082e6;
+    height: 80px;
+    width: 100%;
+  }
+
+label.logo{
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}   
+
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+a.active,a:hover{
+    background: #1b9bff;
+    transition: .5s;
+  } */ 
+
+
+/* ---------------------------------------------------------- */
+
+
+
+  body{
+    background-color: rgb(172, 153, 153);
+}
+
+h2{
+    margin-top: 50px;
+    text-align: center;
+}
+h3{
+    font-weight: 600;
+}
+
+
+
+
+
+/* Navbar */
+
+  .navbar {
+    background-color: rgb(5, 41, 78);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navbrandcl
+{
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  color:rgb(228, 142, 142);
+  font-size: 35px;
+  margin: 0px;
+}
+
+
+
+.nav-link{
+
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: rgb(29, 38, 117);
+    margin: 0px;
+}
+
+
+/* Login */
+
+.kertr{
+    color: rgb(168, 54, 54);
+    font-weight: 600;
+ 
+  }
+.labeltxt{
+    font-weight: 600;
+    font-size: 20px;
+  }
+
+  
+  .btn1{
+    border:none;
+    color: white;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: dodgerblue;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+   .btn1:hover{
+     opacity: 1;
+    background-color:rgb(44, 149, 253);
+    border:1px solid;
+    color:white;
+   }
+
+
+
+   /* ToDo List */
+   .todhd{
+    color: rgb(168, 54, 54);
+    font-weight: 600;
+  }
+
+
+/* Todolist page */
+/* h4{
+  color: rgb(25, 16, 104);
+  font-weight: 600;
+} */
+
+
+
+#results {
+  font-size: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 60px;
+  color: rgb(151, 9, 156);
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+#results2 {
+  font-size: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  color: rgb(13, 133, 155);
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+#results3 {
+  font-size: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  color: rgb(31, 90, 4);
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+#results4 {
+  font-size: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  color: rgb(60, 60, 192);
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+#results5 {
+  font-size: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  color: rgb(133, 7, 38);
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+
+
+#checkbox1{
+   
+  vertical-align: middle;
+  position: relative;
+  top: 95px;
+  left: 64px;
+  width: 30px;
+  height: 30px;
+  background: #000;
+}
+#checkbox2{
+ 
+  vertical-align: middle;
+  position: relative;
+  top: 45px;
+  left: 64px;
+  width: 30px;
+  height: 30px;
+}
+#checkbox3{
+ 
+  vertical-align: middle;
+  position: relative;
+  top: 45px;
+  left: 64px;
+  width: 30px;
+  height: 30px;
+}
+#checkbox4{
+ 
+  vertical-align: middle;
+  position: relative;
+  top: 45px;
+  left: 64px;
+  width: 30px;
+  height: 30px;
+}
+#checkbox5{
+ 
+  vertical-align: middle;
+  position: relative;
+  top: 45px;
+  left: 64px;
+  width: 30px;
+  height: 30px;
+}
+
+
+label {
+  display: block;
+}
+
